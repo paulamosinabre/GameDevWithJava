@@ -1,1 +1,1 @@
-<h1>this is a package for the background elements</h1>
+<b>this is a package for the background elements</b>
